@@ -1,0 +1,786 @@
+{
+    "Farming": {
+        "Wheat & Seeds": [
+            "Wheat",
+            "Enchanted Bread",
+            "Enchanted Wheat",
+            "Enchanted Hay Bale",
+            "Seeds",
+            "Enchanted Seeds",
+            "Box of Seeds"
+        ],
+        "Carrot": [
+            "Carrot",
+            "Enchanted Carrot",
+            "Enchanted Carrot on a Stick",
+            "Enchanted Golden Carrot"
+        ],
+        "Potato": [
+            "Potato",
+            "Poisonous Potato",
+            "Enchanted Potato",
+            "Enchanted Poisonous Potato",
+            "Enchanted Baked Potato"
+        ],
+        "Pumpkin": [
+            "Pumpkin",
+            "Enchanted Pumpkin",
+            "Polished Pumpkin"
+        ],
+        "Melon": [
+            "Melon",
+            "Enchanted Melon",
+            "Enchanted Glistering Melon",
+            "Melon Block",
+            "Enchanted Melon Block"
+        ],
+        "Mushrooms": [
+            "Red Mushroom",
+            "Brown Mushroom",
+            "Enchanted Red Mushroom",
+            "Red Mushroom Block",
+            "Enchanted Red Mushroom Block",
+            "Enchanted Brown Mushroom",
+            "Brown Mushroom Block",
+            "Enchanted Brown Mushroom Block"
+        ],
+        "Cocoa Bean": [
+            "Cocoa Beans",
+            "Enchanted Cocoa Beans",
+            "Enchanted Cookie"
+        ],
+        "Cactus": [
+            "Cactus",
+            "Enchanted Cactus Green",
+            "Enchanted Cactus"
+        ],
+        "Sugar Cane": [
+            "Sugar Cane",
+            "Enchanted Sugar",
+            "Enchanted Paper",
+            "Enchanted Sugar Cane"
+        ],
+        "Leather & Beef": [
+            "Leather",
+            "Enchanted Leather",
+            "Raw Beef",
+            "Enchanted Raw Beef"
+        ],
+        "Pork": [
+            "Raw Porkchop",
+            "Enchanted Pork",
+            "Enchanted Grilled Pork"
+        ],
+        "Chicken & Feather": [
+            "Raw Chicken",
+            "Enchanted Raw Chicken",
+            "Enchanted Cake",
+            "Feather",
+            "Enchanted Feather",
+            "Egg",
+            "Enchanted Egg",
+            "Super Enchanted Egg",
+            "Omega Enchanted Egg"
+        ],
+        "Mutton & Wool": [
+            "Mutton",
+            "Enchanted Mutton",
+            "Enchanted Cooked Mutton",
+            "White Wool",
+            "Enchanted Wool"
+        ],
+        "Rabbit": [
+            "Raw Rabbit",
+            "Rabbit's Foot",
+            "Rabbit Hide",
+            "Enchanted Raw Rabbit",
+            "Enchanted Rabbit Foot",
+            "Enchanted Rabbit Hide"
+        ],
+        "Nether Warts": [
+            "Nether Wart",
+            "Enchanted Nether Wart",
+            "Mutant Nether Wart"
+        ],
+        "Garden": [
+            "Compost",
+            "Cropie",
+            "Squash",
+            "Dung",
+            "Tasty Cheese",
+            "Plant Matter",
+            "Honey Jar",
+            "Fine Flour"
+        ]
+    },
+    "Mining": {
+        "Cobblestone": [
+            "Cobblestone",
+            "Enchanted Cobblestone"
+        ],
+        "Coal": [
+            "Coal",
+            "Enchanted Coal",
+            "Enchanted Charcoal",
+            "Enchanted Coal Block"
+        ],
+        "Iron": [
+            "Iron Ingot",
+            "Enchanted Iron",
+            "Enchanted Iron Block"
+        ],
+        "Gold": [
+            "Gold Ingot",
+            "Enchanted Gold",
+            "Enchanted Gold Block"
+        ],
+        "Diamond": [
+            "Diamond",
+            "Enchanted Diamond",
+            "Enchanted Diamond Block",
+            "Refined Diamond"
+        ],
+        "Lapis": [
+            "Lapis Lazuli",
+            "Enchanted Lapis Lazuli",
+            "Enchanted Lapis Block"
+        ],
+        "Emerald": [
+            "Emerald",
+            "Enchanted Emerald",
+            "Enchanted Emerald Block"
+        ],
+        "Redstone": [
+            "Redstone",
+            "Enchanted Redstone",
+            "Enchanted Redstone Block"
+        ],
+        "Obsidian": [
+            "Obsidian",
+            "Enchanted Obsidian"
+        ],
+        "End Stone": [
+            "End Stone",
+            "Enchanted End Stone"
+        ],
+        "Flint & Gravel": [
+            "Flint",
+            "Enchanted Flint",
+            "Gravel"
+        ],
+        "Sand": [
+            "Sand",
+            "Enchanted Sand"
+        ],
+        "Ice": [
+            "Ice",
+            "Packed Ice",
+            "Enchanted Ice",
+            "Enchanted Packed Ice",
+            "Glacial Fragment"
+        ],
+        "Snow": [
+            "Snowball",
+            "Snow Block",
+            "Enchanted Snow Block"
+        ],
+        "Hard Stone": [
+            "Hard Stone",
+            "Enchanted Hard Stone",
+            "Concentrated Stone"
+        ],
+        "Gemstones": {
+            "Jade": [
+                "☘ Rough Jade Gemstone",
+                "☘ Flawed Jade Gemstone",
+                "☘ Fine Jade Gemstone"
+            ],
+            "Amber": [
+                "⸕ Rough Amber Gemstone",
+                "⸕ Flawed Amber Gemstone",
+                "⸕ Fine Amber Gemstone"
+            ],
+            "Topaz": [
+                "✧ Rough Topaz Gemstone",
+                "✧ Flawed Topaz Gemstone",
+                "✧ Fine Topaz Gemstone"
+            ],
+            "Sapphire": [
+                "✎ Rough Sapphire Gemstone",
+                "✎ Flawed Sapphire Gemstone",
+                "✎ Fine Sapphire Gemstone"
+            ],
+            "Amethyst": [
+                "❈ Rough Amethyst Gemstone",
+                "❈ Flawed Amethyst Gemstone",
+                "❈ Fine Amethyst Gemstone"
+            ],
+            "Jasper": [
+                "❁ Rough Jasper Gemstone",
+                "❁ Flawed Jasper Gemstone",
+                "❁ Fine Jasper Gemstone"
+            ],
+            "Ruby": [
+                "❤ Rough Ruby Gemstone",
+                "❤ Flawed Ruby Gemstone",
+                "❤ Fine Ruby Gemstone"
+            ],
+            "Opal": [
+                "❂ Rough Opal Gemstone",
+                "❂ Flawed Opal Gemstone",
+                "❂ Fine Opal Gemstone"
+            ],
+            "Onyx": [
+                "☠ Rough Onyx Gemstone",
+                "☠ Flawed Onyx Gemstone",
+                "☠ Fine Onyx Gemstone"
+            ],
+            "Aquamarine": [
+                "α Rough Aquamarine Gemstone",
+                "α Flawed Aquamarine Gemstone",
+                "α Fine Aquamarine Gemstone"
+            ],
+            "Citrine": [
+                "☘ Rough Citrine Gemstone",
+                "☘ Flawed Citrine Gemstone",
+                "☘ Fine Citrine Gemstone"
+            ],
+            "Peridot": [
+                "☘ Rough Peridot Gemstone",
+                "☘ Flawed Peridot Gemstone",
+                "☘ Fine Peridot Gemstone"
+            ]
+        },
+        "Goblin Eggs": [
+            "Goblin Egg",
+            "Red Goblin Egg",
+            "Blue Goblin Egg",
+            "Yellow Goblin Egg",
+            "Green Goblin Egg"
+        ],
+        "Dwarven Mines": [
+            "Mithril",
+            "Enchanted Mithril",
+            "Refined Mithril",
+            "Starfall",
+            "Titanium",
+            "Enchanted Titanium",
+            "Refined Titanium",
+            "Treasurite",
+            "Sorrow"
+        ],
+        "Forge": [
+            "Plasma",
+            "Glacite Jewel",
+            "Fuel Canister",
+            "Bejeweled Handle",
+            "Gemstone Mixture",
+            "Mithril Plate",
+            "Drill Motor",
+            "Golden Plate"
+        ],
+        "Crystal Hollows": [
+            "Precursor Apparatus",
+            "Electron Transmitter",
+            "FTX 3070",
+            "Robotron Reflector",
+            "Superlite Motor",
+            "Control Switch",
+            "Synthetic Heart",
+            "Jungle Key",
+            "Divan Fragment",
+            "Corleonite",
+            "Sludge Juice",
+            "Yoggie",
+            "Ascension Rope",
+            "Wishing Compass",
+            "Bob-omb"
+        ],
+        "Crimson Isle": [
+            "Glowstone",
+            "Netherrack",
+            "Quartz",
+            "Red Sand",
+            "Sulphur",
+            "Mycelium"
+        ],
+        "Glacite Tunnels": [
+            "Umber",
+            "Enchanted Umber",
+            "Refined Umber",
+            "Umber Plate",
+            "Umber Key",
+            "Tungsten",
+            "Enchanted Tungsten",
+            "Refined Tungsten",
+            "Tungsten Plate",
+            "Tungsten Key",
+            "Glacite",
+            "Enchanted Glacite",
+            "Glacite Amalgamation",
+            "Suspicious Scrap"
+        ]
+    },
+    "Combat": {
+        "Rotten Flesh": [
+            "Rotten Flesh",
+            "Enchanted Rotten Flesh"
+        ],
+        "Bone": [
+            "Bone",
+            "Enchanted Bone",
+            "Enchanted Bone Block",
+            "Enchanted Bone Meal"
+        ],
+        "Arachnids": [
+            "String",
+            "Enchanted String",
+            "Spider Eye",
+            "Enchanted Spider Eye",
+            "Enchanted Fermented Spider Eye",
+            "Soul String",
+            "Arachne's Calling",
+            "Arachne Fragment",
+            "Arachne's Fang"
+        ],
+        "Gunpowder": [
+            "Gunpowder",
+            "Enchanted Gunpowder",
+            "Enchanted Firework Rocket"
+        ],
+        "Ender Pearl": [
+            "Enchanted Eye of Ender",
+            "Absolute Ender Pearl",
+            "Tessellated Ender Pearl"
+        ],
+        "Ghast Tear": [
+            "Ghast Tear",
+            "Enchanted Ghast Tear"
+        ],
+        "Slimes": [
+            "Slimeball",
+            "Enchanted Slimeball",
+            "Enchanted Slime Block",
+            "Poison Sample"
+        ],
+        "Magma Cream": [
+            "Magma Cream",
+            "Enchanted Magma Cream",
+            "Whipped Magma Cream"
+        ],
+        "Blaze Rod": [
+            "Blaze Rod",
+            "Enchanted Blaze Powder",
+            "Enchanted Blaze Rod"
+        ],
+        "The End": {
+            "Items": [
+                "Crystal Fragment",
+                "Draconic Sacrifice"
+            ],
+            "Dragon Fragments": [
+                "Protector Dragon Fragment",
+                "Old Dragon Fragment",
+                "Unstable Dragon Fragment",
+                "Strong Dragon Fragment",
+                "Young Dragon Fragment",
+                "Wise Dragon Fragment",
+                "Superior Dragon Fragment",
+                "Holy Dragon Fragment"
+            ],
+            "Draconic Sacrifice": [
+                "Ritual Residue",
+                "Mite Gel"
+            ]
+        },
+        "Crimson Isle": {
+            "Mob Drops": [
+                "Blaze Ashes",
+                "Mutated Blaze Ashes",
+                "Millennia-Old Blaze Ashes",
+                "Spectre Dust",
+                "Wither Soul",
+                "Bezos",
+                "Magmag",
+                "Digested Mushrooms",
+                "Burning Eye",
+                "Magma Chunk",
+                "Gazing Pearl",
+                "Flames",
+                "Kada Lead",
+                "Match-Sticks",
+                "Tentacle Meat",
+                "Corrupted Fragment"
+            ],
+            "Mini Bosses": [
+                "Hallowed Skull",
+                "Spell Powder",
+                "Leather Cloth",
+                "Lumino Fiber",
+                "Compact Ooze",
+                "Rekindled Ember Fragment"
+            ],
+            "Special": [
+                "Nether Star",
+                "Heavy Pearl",
+                "Kuudra Teeth",
+                "X",
+                "Y",
+                "Z"
+            ]
+        },
+        "Slayers": {
+            "Revenant Horror": [
+                "Revenant Flesh",
+                "Revenant Viscera",
+                "Golden Powder",
+                "Undead Catalyst",
+                "Revenant Catalyst"
+            ],
+            "Tarantula Broodfather": [
+                "Tarantula Web",
+                "Tarantula Silk",
+                "Spider Catalyst",
+                "Toxic Arrow Poison"
+            ],
+            "Sven Packmaster": [
+                "Wolf Tooth",
+                "Golden Tooth",
+                "Weak Wolf Catalyst"
+            ],
+            "Voidgloom Seraph": [
+                "Null Sphere",
+                "Null Ovoid",
+                "Null Atom",
+                "Raw Soulflow",
+                "Soulflow",
+                "Braided Griffin Feather",
+                "Twilight Arrow Poison",
+                "Null Edge"
+            ],
+            "Inferno Demonlord": [
+                "Derelict Ashe",
+                "Blaze Rod Distillate",
+                "Gabagool Distillate",
+                "Glowstone Distillate",
+                "Magma Cream Distillate",
+                "Nether Wart Distillate",
+                "Amalgamated Crimsonite",
+                "Bundle of Magma Arrows",
+                "Kelvin Inverter",
+                "Molten Powder"
+            ]
+        },
+        "Catacombs": {
+            "Special Fragments": [
+                "Jolly Pink Rock",
+                "L.A.S.R.'s Eye",
+                "Bigfoot's Lasso"
+            ],
+            "Mob Drops": [
+                "Mimic Fragment",
+                "Fel Pearl",
+                "Ancient Rose",
+                "Healing Tissue"
+            ],
+            "Secret Drops": [
+                "Dungeon Chest Key",
+                "Superboom TNT",
+                "Trap",
+                "Inflatable Jerry",
+                "Decoy",
+                "Architect's First Draft"
+            ],
+            "Catacombs Misc.": [
+                "Kismet Feather",
+                "Wither Catalyst",
+                "Spirit Wing",
+                "Spirit Bone"
+            ]
+        }
+    },
+    "Woods & Fishes": {
+        "Oak": [
+            "Oak Wood",
+            "Enchanted Oak Wood"
+        ],
+        "Spruce": [
+            "Spruce Wood",
+            "Enchanted Spruce Wood"
+        ],
+        "Birch": [
+            "Birch Wood",
+            "Enchanted Birch Wood"
+        ],
+        "Dark Oak": [
+            "Dark Oak Wood",
+            "Enchanted Dark Oak Wood"
+        ],
+        "Acacia": [
+            "Acacia Wood",
+            "Enchanted Acacia Wood"
+        ],
+        "Jungle": [
+            "Jungle Wood",
+            "Enchanted Jungle Wood"
+        ],
+        "Flowers": [
+            "Poppy",
+            "Enchanted Poppy",
+            "Dandelion",
+            "Enchanted Dandelion"
+        ],
+        "Raw Fish": [
+            "Raw Fish",
+            "Enchanted Raw Fish",
+            "Enchanted Cooked Fish"
+        ],
+        "Salmon": [
+            "Raw Salmon",
+            "Enchanted Raw Salmon",
+            "Enchanted Cooked Salmon"
+        ],
+        "Clownfish": [
+            "Clownfish",
+            "Enchanted Clownfish"
+        ],
+        "Pufferfish": [
+            "Pufferfish",
+            "Enchanted Pufferfish"
+        ],
+        "Prismarine": [
+            "Prismarine Shard",
+            "Enchanted Prismarine Shard",
+            "Prismarine Crystals",
+            "Enchanted Prismarine Crystals"
+        ],
+        "Clay": [
+            "Clay",
+            "Enchanted Clay",
+            "Enchanted Clay Block"
+        ],
+        "Sponge": [
+            "Sponge",
+            "Enchanted Sponge",
+            "Enchanted Wet Sponge"
+        ],
+        "Lily Pad": [
+            "Lily Pad",
+            "Enchanted Lily Pad"
+        ],
+        "Ink Sac": [
+            "Ink Sac",
+            "Enchanted Ink Sac"
+        ],
+        "Baits": [
+            "Carrot Bait",
+            "Minnow Bait",
+            "Fish Bait",
+            "Light Bait",
+            "Dark Bait",
+            "Spooky Bait",
+            "Spiked Bait",
+            "Blessed Bait",
+            "Ice Bait",
+            "Frozen Bait",
+            "Whale Bait",
+            "Shark Bait",
+            "Corrupted Bait",
+            "Hot Bait",
+            "Glowy Chum Bait",
+            "Worm Bait",
+            "Golden Bait"
+        ],
+        "Mob Drops": [
+            "Worm Membrane",
+            "Hunk of Ice",
+            "Hunk of Blue Ice",
+            "Emperor's Skull",
+            "Bobbin' Scriptures",
+            "Magma Core"
+        ],
+        "Magmafish": [
+            "Magmafish",
+            "Silver Magmafish",
+            "Gold Magmafish",
+            "Diamond Magmafish"
+        ],
+        "Lava Fishing": [
+            "Lava Shell",
+            "Lump of Magma",
+            "Moogma Pelt",
+            "Cup of Blood",
+            "Pyroclastic Scale",
+            "Flaming Heart",
+            "Orb of Energy",
+            "Horn of Taurus",
+            "Thunder Shards",
+            "Magma Lord Fragment"
+        ],
+        "Water Orbs": [
+            "Water Orb",
+            "Lava Water Orb",
+            "Spooky Water Orb",
+            "Shark Water Orb",
+            "Winter Water Orb"
+        ],
+        "Chum Fishing": [
+            "Chum",
+            "Glowing Mushroom",
+            "Empty Chum Bucket",
+            "Full Chum Bucket"
+        ]
+    },
+    "Oddities": {
+        "EXP Bottles": [
+            "Experience Bottle",
+            "Grand Experience Bottle",
+            "Titanic Experience Bottle",
+            "Colossal Experience Bottle"
+        ],
+        "Stock of Stonks": [
+            "Stock of Stonks"
+        ],
+        "Pet Upgrades": {
+            "Pet Candies": [
+                "Simple Carrot Candy",
+                "Great Carrot Candy",
+                "Superb Carrot Candy",
+                "Ultimate Carrot Candy",
+                "Chyme"
+            ],
+            "Others": [
+                "Lucky Clover Core",
+                "Exp Share Core"
+            ]
+        },
+        "Inferno Minion": [
+            "Crude Gabagool",
+            "Very Crude Gabagool",
+            "Fuel Gabagool",
+            "Heavy Gabagool",
+            "Inferno Vertex",
+            "Chili Pepper",
+            "Stuffed Chili Pepper",
+            "Inferno Fuel Block",
+            "Hypergolic Ionized Ceramics",
+            "Sulphuric Coal",
+            "Re-heated Gummy Polar Bear",
+            "Capsaicin Eyedrops"
+        ],
+        "Minion Upgrades": {
+            "Minion Storage": [
+                "Small Storage",
+                "Medium Storage",
+                "Large Storage",
+                "X-Large Storage",
+                "XX-Large Storage"
+            ]
+        },
+        "Fuels": [
+            "Hamster Wheel",
+            "Foul Flesh",
+            "Power Crystal",
+            "Catalyst",
+            "Hyper Catalyst",
+            "Solar Panel",
+            "Oil Barrel",
+            "Scorched Power Crystal",
+            "Volta"
+        ],
+        "Essence": [
+            "Wither Essence",
+            "Spider Essence",
+            "Undead Essence",
+            "Dragon Essence",
+            "Gold Essence",
+            "Diamond Essence",
+            "Ice Essence",
+            "Crimson Essence"
+        ],
+        "Events": {
+            "Spooky": [
+                "Green Candy",
+                "Purple Candy",
+                "Dark Candy",
+                "Ectoplasm",
+                "Pumpkin Guts",
+                "Spooky Shard",
+                "Werewolf Skin",
+                "Soul Fragment",
+                "Bat Firework",
+                "Blast o' Lantern",
+                "Horseman's Candle",
+                "Expired Pumpkin"
+            ],
+            "Winter": [
+                "White Gift",
+                "Green Gift",
+                "Red Gift",
+                "Party Gift",
+                "Volcanic Rock"
+            ],
+            "Minerals": [
+                "Refined Mineral",
+                "Glossy Gemstone"
+            ],
+            "Jacob's Ticket": [
+                "Jacob's Ticket"
+            ],
+            "Mythological": [
+                "Griffin Feather",
+                "Ancient Claw",
+                "Enchanted Ancient Claw"
+            ],
+            "Fishing Festival": [
+                "Nurse Shark Tooth",
+                "Blue Shark Tooth",
+                "Tiger Shark Tooth",
+                "Shark Fin",
+                "Enchanted Shark Fin"
+            ],
+            "Jerry Boxes": [
+                "Green Jerry Box",
+                "Blue Jerry Box",
+                "Purple Jerry Box",
+                "Golden Jerry Box"
+            ],
+            "Diaz": [
+                "Avaricious Chalice",
+                "Freshly-Minted Coins",
+                "Blood-Stained Coins",
+                "Blood-Soaked Coins"
+            ],
+            "Hoppity's Hunt": [
+                "Supreme Chocolate Bar"
+            ],
+            "Year of the Seal": [
+                "Bouncy Beach Ball"
+            ]
+        },
+        "Consumables": [
+            "Magical Mushroom Soup",
+            "Mystical Mushroom Soup"
+        ],
+        "Cross-Dimensional": [
+            "Lush Berberis",
+            "Enchanted Lush Berberis",
+            "Agarimoo Tongue",
+            "Exportable Carrots",
+            "Hemovibe",
+            "Hemoglass",
+            "Hemobomb",
+            "Highlite",
+            "Extremely Real Shuriken"
+        ],
+        "Upgrade Fragments": [
+            "Bonzo Fragment",
+            "Dark Queen's Soul",
+            "Golden Fragment",
+            "Livid Fragment",
+            "Scarf Fragment",
+            "Thorn Fragment",
+            "Winter Fragment"
+        ]
+    }
+}
